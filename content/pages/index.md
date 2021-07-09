@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome !
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: I will handle your website design and prod
     actions:
       - label: Contact Me
         url: /contact
