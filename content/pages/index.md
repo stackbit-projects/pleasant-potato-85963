@@ -54,7 +54,7 @@ sections:
     grid_gap_vert: medium
   - type: features_section
     title: Our services
-    subtitle: What I do
+    subtitle: What do we offer ?
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'
