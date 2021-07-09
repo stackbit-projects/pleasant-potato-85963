@@ -5,7 +5,7 @@ sections:
     title: Welcome !
     subtitle: I will handle your website design and prod
     actions:
-      - label: Contact Me
+      - label: URGENT HELP NEEDED
         url: /contact
         style: primary
     image: /images/Adalee Naturals.png
